@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+.topnav{
+    text-align: right;
+    word-spacing: 20px;
+    color: black;
+}
+.text{
+    color: rgb(68, 151, 151);
+    float: left;
+}
+.paragraph{
+    font-size:medium;
+    font: bold;
+    word-spacing: 5px;
+    color: rgba(39, 47, 117, 0.925);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image{
+    text-align:center;
+    font-size: small;
+    font: bold;
+    color: rgb(153, 11, 11);
+    font-family:'Lucida Sans Unicode';
+}
+h2{
+    color: chocolate;
+}
